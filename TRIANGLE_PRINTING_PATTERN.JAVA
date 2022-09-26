@@ -3,7 +3,6 @@ import java.util.*;
 public class Main
 {
 	public static void main(String[] args) {
-	    System.out.println("INPUT A FOUR DIGIT NO.");
 		Scanner sc = new Scanner(System.in);
 		int n=sc.nextInt();
 		for(int i=1;i<=n;i++){
@@ -28,7 +27,6 @@ public class Main
 	}
 }
 /*
-INPUT A FOUR DIGIT NO.
 5
     *
    * *
